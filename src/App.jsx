@@ -18,12 +18,13 @@ function App() {
         <h1>Welcome to My Portfolio</h1>
         <div className="intro">
           <p>
-            Hello! I'm a passionate developer dedicated to creating beautiful and functional web applications.
-            With a strong foundation in modern web technologies, I love turning ideas into reality through code.
+            Hello and welcome to my portfolio! I am long term IT professional currently transitioning into software development. Studying via Carnegie Mellon University's Software Engineering Bootcamp hosted by TalentSprint.
+            Below I have included some of the projects I have worked on during my time at TalentSprint along with current skill set and contact information. Please feel free to reach out!
           </p>
         </div>
       </section>
       <Projects />
+      
     </div>
     
   )

@@ -1,0 +1,17 @@
+.view-button {
+    background-color: #20B2AA; /* Light sea green / teal */
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.view-button:hover {
+    background-color: #178F89; /* Slightly darker teal on hover */
+}
+
+.view-button:active {
+    background-color: #147772; /* Even darker when clicked */
+}
